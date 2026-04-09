@@ -2,7 +2,7 @@
 name: domain-strategic-assessment
 description: When the user wants to evaluate a domain name as a strategic digital asset rather than as a simple resale item. Use when the user asks whether a domain is strong, worth building, worth holding, worth selling, worth developing, or capable of becoming a sovereign-grade asset. Also use when the user wants to assess buyer relevance, narrative potential, buildability, long-horizon value, commercialization posture, or the strategic role of a domain inside a larger portfolio.
 metadata:
-  version: 1.1.0
+  version: 2.0.0
 ---
 
 # Domain Strategic Assessment
@@ -19,16 +19,14 @@ You are judging whether the domain can sustain strategic significance.
 
 ## Read Context First
 
-Before assessing any domain, read the repository context layers first.
-
-Priority context files:
+Before assessing any domain, read these repository context files first:
 
 1. `contexts/digital-sovereignty-doctrine.md`
 2. `contexts/portfolio-context.md`
 3. `contexts/portfolio-taxonomy.md`
 4. `contexts/portfolio-priority-framework.md`
 
-If those files are unavailable, proceed carefully but preserve the following assumptions:
+If those files are unavailable, proceed carefully while preserving these assumptions:
 
 - value maximization comes before quick sale logic
 - quality matters as part of the asset itself
@@ -39,13 +37,13 @@ If those files are unavailable, proceed carefully but preserve the following ass
 
 ## Objective
 
-Your objective is to answer the following question:
+Your objective is to answer one central question:
 
 **What is this domain, strategically speaking, and what should be done with it next?**
 
-That means your assessment must determine:
+A proper assessment must determine:
 
-- what kind of asset it could become
+- what kind of asset the domain could become
 - whether it deserves development
 - what kind of buyer it fits
 - what kind of narrative it can sustain
@@ -66,7 +64,7 @@ This skill is not:
 - a generic marketing brainstorm
 - a quick yes/no based on personal taste
 
-Do not reduce the assessment to:
+Do not reduce the assessment to weak statements such as:
 
 - "short domains are good"
 - "this sounds nice"
@@ -96,7 +94,8 @@ If you cannot answer all three layers, the assessment is incomplete.
 Assess the domain across the following dimensions.
 
 Do not treat them as isolated checkboxes.
-Treat them as an integrated strategic reading.
+
+Treat them as one integrated strategic reading.
 
 ---
 
@@ -125,11 +124,9 @@ Ask:
 - Does it feel premium, ordinary, awkward, or fragile?
 - Is its power utilitarian, brandable, conceptual, geographic, or institutional?
 
-### Output expectation
+You must identify the dominant semantic force of the domain.
 
-State what kind of semantic force the name carries.
-
-Examples:
+Typical semantic force classes include:
 
 - exact-match category force
 - strong brandability
@@ -155,13 +152,19 @@ Ask:
 
 Do not force the name into a trend if its deeper logic lies elsewhere.
 
-### Output expectation
-
-Assign:
+You must assign:
 
 - primary sector class
-- any important secondary sector relationship
-- whether the category is durable, rising, niche, speculative, or unstable
+- secondary sector class if needed
+- category durability posture
+
+Category durability posture should be described in terms such as:
+
+- durable
+- rising
+- niche but serious
+- speculative
+- unstable
 
 ---
 
@@ -177,9 +180,7 @@ Ask:
 - Does location make it more reference-worthy?
 - Is local authority the asset, or is geography only a wrapper?
 
-### Output expectation
-
-State:
+You must state:
 
 - geographic orientation
 - whether geography is central, supportive, or incidental
@@ -191,7 +192,7 @@ State:
 
 Determine what kind of asset the domain most naturally wants to become.
 
-Possible modes include:
+Primary asset modes include:
 
 - Brand Asset
 - Reference Asset
@@ -208,13 +209,11 @@ Ask:
 - Would forcing the wrong mode weaken it?
 - Is its highest use as a company name, a reference property, a tool, an industry surface, or a holding?
 
-### Output expectation
-
-Assign:
+You must assign:
 
 - primary asset mode
-- secondary possible mode if relevant
-- why that mode is the best strategic fit
+- secondary asset mode if relevant
+- a short justification for the primary mode
 
 ---
 
@@ -230,16 +229,14 @@ Ask:
 - Can it support a doctrine, manifesto, framework, or thesis?
 - Would narrative deepen valuation or merely decorate it?
 
-### Output expectation
-
-State whether narrative depth is:
+Narrative depth must be classified as one of the following:
 
 - weak
 - moderate
 - strong
 - exceptional
 
-Then explain why.
+You must explain why the chosen level is correct.
 
 ---
 
@@ -255,13 +252,19 @@ Ask:
 - Is the buyer logic obvious, buildable, or still speculative?
 - Can the ownership case be explained rationally?
 
-### Output expectation
-
-Identify:
+You must identify:
 
 - primary buyer type
 - likely buyer universe
-- level of buyer clarity: low, emerging, moderate, strong, or exceptional
+- buyer clarity level
+
+Buyer clarity level must be described as one of:
+
+- low
+- emerging
+- moderate
+- strong
+- exceptional
 
 ---
 
@@ -277,9 +280,7 @@ Ask:
 - Would a build feel natural or forced?
 - Can it sustain reference-grade quality?
 
-### Output expectation
-
-State whether buildability is:
+Buildability must be classified as one of:
 
 - poor
 - limited
@@ -287,7 +288,7 @@ State whether buildability is:
 - strong
 - exceptional
 
-Then explain what kind of build is justified.
+You must also state what kind of build is justified.
 
 ---
 
@@ -302,9 +303,7 @@ Ask:
 - Would professionals or serious buyers take it seriously if built well?
 - Does it lend itself to authority, or mainly to novelty?
 
-### Output expectation
-
-State authority potential and explain whether that authority would come from:
+You must explain the likely source of authority, which may come from:
 
 - precision
 - geography
@@ -341,9 +340,7 @@ Ask:
 - Should commercial action remain highly restrained?
 - Is it more useful as a portfolio anchor than as an immediate sale candidate?
 
-### Output expectation
-
-Assign one primary commercialization orientation and explain why.
+You must assign one primary commercialization orientation and justify it.
 
 ---
 
@@ -360,9 +357,7 @@ Ask:
 - Should it remain protected from active monetization?
 - Would revenue fit naturally with its role?
 
-### Output expectation
-
-Assign a revenue tolerance class:
+You must assign one revenue tolerance class:
 
 - No Active Monetization
 - Minimal Tolerable Monetization
@@ -370,7 +365,7 @@ Assign a revenue tolerance class:
 - Healthy Support Monetization
 - Core Revenue-Compatible
 
-Explain why.
+You must explain why.
 
 ---
 
@@ -378,7 +373,7 @@ Explain why.
 
 Determine how deeply the asset should be built.
 
-Possible levels:
+Possible development depth levels:
 
 - Dormant Hold
 - Light Positioning
@@ -393,9 +388,7 @@ Ask:
 - Would over-building misallocate resources?
 - What is the minimum serious form this asset should take?
 
-### Output expectation
-
-Assign a development depth and justify it.
+You must assign one development depth and justify it.
 
 ---
 
@@ -423,9 +416,7 @@ Ask:
 - Is it a flagship or a reserve?
 - Does it teach something useful for future assets?
 
-### Output expectation
-
-Assign a portfolio role and explain why.
+You must assign one portfolio role and explain why.
 
 ---
 
@@ -453,9 +444,7 @@ Ask:
 - Is it already built, or only conceptually positioned?
 - Is it ready for buyers, or not yet?
 
-### Output expectation
-
-Assign one maturity stage only.
+You must assign one maturity stage only.
 
 ---
 
@@ -474,13 +463,11 @@ Possible tiers:
 
 Do not inflate priority casually.
 
-### Output expectation
-
-Assign one tier only, unless uncertainty is unusually high.
+You must assign one tier only, unless uncertainty is unusually high.
 
 ## Assessment Sequence
 
-When performing the assessment, proceed in this order:
+Perform the assessment in this order:
 
 1. Identify the name's native semantic power
 2. Determine sector and category fit
@@ -500,23 +487,37 @@ When performing the assessment, proceed in this order:
 
 This sequence prevents shallow enthusiasm from replacing disciplined analysis.
 
+## Strategic Verdict Rule
+
+Every assessment must include one final verdict chosen from this list:
+
+- Strategically Strong
+- Strategically Promising
+- Strategically Limited
+- Strategically Weak
+- Too Early to Classify with Confidence
+
+This verdict must match the evidence.
+
+Do not exaggerate.
+
 ## Immediate Next Action Rule
 
 Every assessment must end with one decisive recommendation.
 
 Choose the next action that best matches the asset.
 
-Examples:
+Examples include:
 
-- keep as dormant hold
-- create light positioning notes
-- prepare domain dossier
-- design narrative framework
-- build strategic landing page
-- research buyer universe
-- move toward reference-site architecture
-- prepare controlled sale materials
-- defer and reassess later
+- Keep as dormant hold
+- Create light positioning notes
+- Prepare domain dossier
+- Begin strategic narrative design
+- Research buyer universe
+- Build strategic landing page
+- Move toward structured reference build
+- Prepare controlled sale materials
+- Defer and reassess later
 
 Do not end with vague advice such as:
 
@@ -527,146 +528,175 @@ Do not end with vague advice such as:
 
 The assessment must reduce ambiguity.
 
-## Strategic Verdict Rule
-
-Every assessment must include a final verdict in one of these forms:
-
-- **Strategically Strong**
-- **Strategically Promising**
-- **Strategically Limited**
-- **Strategically Weak**
-- **Too Early to Classify with Confidence**
-
-This verdict must match the evidence.
-Do not exaggerate.
-
-## Preferred Output Format
-
-Use this structure when presenting the assessment.
-
-```md
-# Domain Strategic Assessment: [domain]
-
-## Strategic Thesis
-[2-4 sentence statement explaining what the domain is strategically]
-
-## Strategic Verdict
-[Strategically Strong / Strategically Promising / Strategically Limited / Strategically Weak / Too Early to Classify with Confidence]
-
-## Core Classification
-- Primary Sector Class:
-- Secondary Sector Class:
-- Geographic Orientation:
-- Primary Asset Mode:
-- Secondary Asset Mode:
-- Primary Buyer Type:
-- Development Depth:
-- Commercialization Orientation:
-- Revenue Tolerance:
-- Portfolio Role:
-- Priority Tier:
-- Maturity Stage:
-
-## Native Strength
-[analysis]
-
-## Narrative Potential
-[analysis]
-
-## Buyer Logic
-[analysis]
-
-## Buildability
-[analysis]
-
-## Authority Potential
-[analysis]
-
-## Commercialization Logic
-[analysis]
-
-## Risk Factors
-[analysis]
-
-## Strategic Verdict Rationale
-[clear justification for the verdict]
-
-## Immediate Next Action
-[one decisive recommendation]
 ## Assessment Output Contract
 
-Every assessment must be delivered in a fully completed written form.
+Every assessment must be delivered as a fully completed written document.
 
 Do not leave placeholder text in the final output.
 
 Do not return bracket labels such as `[analysis]`, `[verdict]`, or `[recommendation]`.
 
-The final response must be written as a complete assessment using the structure below.
+Do not produce half-filled forms.
+
+Do not return generic praise without classification.
 
 ## Required Output Structure
 
-```md
-# Domain Strategic Assessment: example.com
+The final assessment must use this section order:
 
-## Strategic Thesis
-Write a concise 2-4 sentence statement explaining what the domain is strategically, why it matters, and what kind of asset it could become.
+1. `# Domain Strategic Assessment: <domain>`
+2. `## Strategic Thesis`
+3. `## Strategic Verdict`
+4. `## Core Classification`
+5. `## Native Strength`
+6. `## Narrative Potential`
+7. `## Buyer Logic`
+8. `## Buildability`
+9. `## Authority Potential`
+10. `## Commercialization Logic`
+11. `## Risk Factors`
+12. `## Strategic Verdict Rationale`
+13. `## Immediate Next Action`
 
-## Strategic Verdict
-Choose exactly one:
-- Strategically Strong
-- Strategically Promising
-- Strategically Limited
-- Strategically Weak
-- Too Early to Classify with Confidence
+## Core Classification Requirements
 
-## Core Classification
-- Primary Sector Class: [write the assigned primary sector]
-- Secondary Sector Class: [write secondary sector if relevant, otherwise state None]
-- Geographic Orientation: [write the geographic orientation]
-- Primary Asset Mode: [write the primary asset mode]
-- Secondary Asset Mode: [write secondary asset mode if relevant, otherwise state None]
-- Primary Buyer Type: [write the primary buyer type]
-- Development Depth: [write the justified development depth]
-- Commercialization Orientation: [write the commercialization posture]
-- Revenue Tolerance: [write the revenue tolerance class]
-- Portfolio Role: [write the assigned portfolio role]
-- Priority Tier: [write the assigned priority tier]
-- Maturity Stage: [write the assigned maturity stage]
+The `## Core Classification` section must explicitly state all of the following fields:
 
-## Native Strength
-Write a complete paragraph explaining the semantic force, linguistic quality, memorability, seriousness, and native strategic power of the name.
+- Primary Sector Class
+- Secondary Sector Class
+- Geographic Orientation
+- Primary Asset Mode
+- Secondary Asset Mode
+- Primary Buyer Type
+- Development Depth
+- Commercialization Orientation
+- Revenue Tolerance
+- Portfolio Role
+- Priority Tier
+- Maturity Stage
 
-## Narrative Potential
-Write a complete paragraph explaining whether the name can sustain a serious strategic narrative, conceptual framework, or valuation-enhancing thesis.
+If a secondary field is not relevant, state `None` rather than leaving it empty.
 
-## Buyer Logic
-Write a complete paragraph identifying who should own the asset, why ownership is rational, and how strong or weak the buyer clarity is.
+## Writing Standard for the Final Assessment
 
-## Buildability
-Write a complete paragraph explaining whether the domain can support a real digital property, what kind of site or structure it can carry, and whether deep building is justified.
+The final assessment must read like a serious strategic evaluation.
 
-## Authority Potential
-Write a complete paragraph explaining whether the domain can become a trusted, serious, and defensible authority surface in its category.
+Each analytical section must contain real judgment in complete prose.
 
-## Commercialization Logic
-Write a complete paragraph explaining the correct commercialization posture, whether secondary income is compatible, and whether monetization should be restrained, selective, or avoided.
+Use direct, disciplined, high-trust language.
 
-## Risk Factors
-Write a complete paragraph identifying the real weaknesses, fragilities, uncertainties, and reasons the asset may fail to justify stronger investment.
+Avoid:
 
-## Strategic Verdict Rationale
-Write a complete paragraph explaining why the final verdict was assigned and why the classification is strategically correct.
+- filler
+- hype
+- shallow enthusiasm
+- empty compliments
+- vague possibility language
+- generic startup phrasing
 
-## Immediate Next Action
-Write one decisive next action only.
+The goal is not to flatter the domain.
 
-Examples:
-- Keep as dormant hold
-- Create light positioning notes
-- Prepare domain dossier
-- Begin strategic narrative design
-- Research buyer universe
-- Build strategic landing page
-- Move toward structured reference build
-- Prepare controlled sale materials
-- Defer and reassess later
+The goal is to classify it correctly.
+
+## Risk Requirement
+
+Every serious assessment must include risk.
+
+Do not romanticize the asset.
+
+Common risk types include:
+
+- weak buyer clarity
+- concept too broad
+- name too narrow
+- forced buildability
+- low category durability
+- poor monetization fit
+- heavy effort-to-reward burden
+- ambiguous authority path
+- overreliance on narrative without operational grounding
+
+A strong assessment is honest about fragility.
+
+## Strength Signals
+
+Common indicators of strategic strength include:
+
+- high semantic force
+- real buyer universe
+- durable sector relevance
+- strong category legibility
+- good fit for reference architecture
+- natural authority path
+- strong narrative expandability
+- patient value compounding potential
+- high dignity retention under development
+
+## Weakness Signals
+
+Common indicators of strategic weakness include:
+
+- weak or awkward semantics
+- unclear buyer class
+- trend-dependent relevance
+- poor buildability
+- low authority ceiling
+- monetization that would cheapen the asset
+- forced narrative logic
+- lack of real portfolio importance
+- inability to justify development depth
+
+## Discipline Rules
+
+### Rule 1: Do Not Overpraise
+Not every premium-feeling name is a serious strategic asset.
+
+### Rule 2: Do Not Undervalue Quiet Strength
+Some domains are powerful precisely because they are structurally serious, not flashy.
+
+### Rule 3: Narrative Must Be Defensible
+A deep story is useful only if it increases real strategic legibility.
+
+### Rule 4: Do Not Force Full Build
+If the asset only justifies positioning, say so.
+
+### Rule 5: Do Not Confuse Revenue with Value
+Revenue support matters, but it does not define strategic greatness.
+
+### Rule 6: Preserve Dignity
+Any recommendation that cheapens the asset is suspect.
+
+### Rule 7: Compare Against Portfolio Reality
+Assessment should reflect scarcity of attention, not infinite enthusiasm.
+
+## Escalation Rule
+
+If the asset scores strongly in:
+
+- semantic force
+- buyer relevance
+- narrative depth
+- buildability
+- authority potential
+
+then it should usually proceed to:
+
+- `strategic-narrative-design`
+
+If buyer logic is clearer than build logic, it may instead proceed to:
+
+- `buyer-fit-analysis`
+
+If the asset is promising but not yet ready, recommend light positioning or portfolio holding rather than premature escalation.
+
+## Final Position
+
+The purpose of this skill is not to admire names.
+
+The purpose is to determine whether a domain deserves strategic energy, what form that energy should take, and how the asset should move through the Sovereign Asset System.
+
+A disciplined no is as valuable as a disciplined yes.
+
+What matters is not excitement.
+
+What matters is strategic correctness.
