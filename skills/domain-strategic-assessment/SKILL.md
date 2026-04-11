@@ -54,6 +54,25 @@ A proper assessment must determine:
 - what maturity stage it is currently in
 - what immediate next step is rational
 
+In this system, assessment is not purely passive.
+
+The purpose is not only to determine what the asset is now.
+
+The purpose is also to determine what the asset can become through disciplined value construction.
+
+This means that the assessment must identify not only:
+
+- current strength
+- current weakness
+- present classification
+
+but also:
+
+- the highest-value strategic trajectory
+- the strongest authority-building path
+- the most defensible narrative direction
+- the most dignity-preserving economic path
+
 ## What This Skill Is Not
 
 This skill is not:
@@ -500,6 +519,26 @@ Every assessment must include one final verdict chosen from this list:
 This verdict must match the evidence.
 
 Do not exaggerate.
+
+## Value Construction Requirement
+
+Every serious assessment must include a value-construction reading.
+
+This means the assessment must explain how the asset's value could be strengthened through deliberate work.
+
+Possible value-construction levers include:
+
+- clearer strategic framing
+- stronger category positioning
+- better narrative architecture
+- more coherent reference structure
+- stronger buyer legibility
+- higher authority quality
+- more disciplined commercialization logic
+
+Do not stop at classification.
+
+Show the strongest path for increasing the asset's strategic weight.
 
 ## Immediate Next Action Rule
 
