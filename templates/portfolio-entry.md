@@ -12,12 +12,20 @@ This template does not replace deeper assessment.
 
 It prepares the asset for it.
 
-A good portfolio entry should make the asset legible enough to decide:
+A strong portfolio entry should make the asset legible enough to decide:
 
-- whether it deserves deeper attention
 - how it should be classified initially
 - what role it may play in the portfolio
-- whether it should proceed to dossier creation, strategic assessment, or delayed review
+- what strategic direction appears strongest at intake stage
+- whether it should proceed to strategic assessment, dossier creation, or delayed review
+
+This template is not purely classificatory.
+
+It is also constructive.
+
+Its role is not only to observe the asset as it currently exists.
+
+Its role is also to identify the strongest initial direction for building, strengthening, and legitimizing the asset's value over time.
 
 ---
 
@@ -69,6 +77,32 @@ Answer in broad terms:
 - whether it appears more suited to holding, development, or selective sale logic
 
 This section should remain disciplined and provisional.
+
+---
+
+## Initial Value Construction Direction
+
+### Highest-Value Direction
+
+Write one paragraph explaining the strongest apparent direction for increasing the asset's value.
+
+This is not the final narrative and not the final build decision.
+
+It is the first disciplined reading of how the asset might become stronger through deliberate work.
+
+Possible value-construction levers may include:
+
+- clearer strategic framing
+- better category positioning
+- stronger authority architecture
+- improved buyer legibility
+- disciplined digital structure
+- restrained commercialization logic
+- long-horizon positioning
+
+This section exists to ensure that intake is not merely descriptive.
+
+It must also identify the strongest first direction for value development.
 
 ---
 
@@ -262,6 +296,11 @@ Choose one primary next-step path:
 
 Write one paragraph explaining why this next-step path is strategically correct.
 
+This explanation should reflect both:
+
+- the current state of the asset
+- the strongest apparent direction for value construction
+
 ---
 
 ## Dossier Decision
@@ -280,6 +319,8 @@ Write one paragraph explaining whether this asset deserves a full `domain-dossie
 Because the portfolio is large, not every asset should receive a full dossier immediately.
 
 This decision must be disciplined.
+
+A dossier is justified when the asset has enough strategic weight, complexity, and development potential that its value-building layers should be consolidated in one operating document.
 
 ---
 
@@ -311,6 +352,8 @@ Examples:
 ### Entry Decision Rationale
 
 Write one short paragraph explaining why this immediate next action is correct.
+
+The rationale should make clear not only what the asset is now, but what the most intelligent next step is for strengthening its strategic value.
 
 ---
 
