@@ -134,7 +134,29 @@ The system is not a spectator of value.
 
 It is an instrument for building it.
 
-### 8. Secondary Income Must Support the Asset, Not Redefine It
+### 8. Benchmark Challenge Principle
+
+The purpose of this system is not to imitate symbolic value construction.
+
+Its purpose is to challenge and surpass it.
+
+The existence of high-value symbolic benchmarks proves that narrative, framing, and conceptual architecture can raise perceived value far above raw material form.
+
+This system accepts that proof, but does not stop there.
+
+Its objective is to build a stronger class of value:
+
+- value with deeper conceptual force
+- value with real digital structure
+- value with reference authority
+- value with long-horizon legitimacy
+- value with disciplined economic resilience
+
+The goal is therefore not to recreate novelty value.
+
+The goal is to exceed symbolic benchmark value by building sovereign-grade digital assets whose meaning, structure, authority, and endurance make them more defensible, more durable, and more strategically significant over time.
+
+### 9. Secondary Income Must Support the Asset, Not Redefine It
 
 Recurring income may be useful and, in some cases, strategically important.
 
@@ -154,7 +176,7 @@ The correct standard is:
 
 secondary income is acceptable only when it preserves or strengthens the strategic quality of the asset.
 
-### 9. Buyer Chasing Is Not a Doctrine
+### 10. Buyer Chasing Is Not a Doctrine
 
 This system does not assume aggressive follow-up behavior as a mark of seriousness.
 
@@ -173,7 +195,7 @@ This reflects a deliberate posture:
 - patience over pressure
 - value compounding over attention chasing
 
-### 10. Development Over Desperation
+### 11. Development Over Desperation
 
 The system assumes that a serious asset can become more powerful through development.
 
@@ -192,7 +214,7 @@ The preferred answer to weak market recognition is often not louder selling.
 
 It is better asset construction.
 
-### 11. Not Every Domain Deserves Full Development
+### 12. Not Every Domain Deserves Full Development
 
 Discipline includes selection.
 
@@ -205,7 +227,7 @@ The doctrine rejects uniform treatment.
 
 Capital, time, and creative energy should be concentrated where strategic upside is highest.
 
-### 12. Portfolio Coherence Multiplies Power
+### 13. Portfolio Coherence Multiplies Power
 
 A single good asset matters.
 
