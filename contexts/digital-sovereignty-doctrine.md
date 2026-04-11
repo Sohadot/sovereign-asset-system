@@ -101,7 +101,40 @@ Time is not treated as a passive delay.
 
 Time is treated as a force that can deepen authority, clarify relevance, strengthen presentation, and improve valuation.
 
-### 7. Secondary Income Must Support the Asset, Not Redefine It
+### 7. Value Is Not Only Discovered. It Is Constructed.
+
+This system does not exist merely to judge whether an asset already deserves value.
+
+It exists to help construct, strengthen, and legitimize that value over time.
+
+A domain may begin as a strong raw name, but sovereign-grade value usually emerges through deliberate work:
+
+- strategic framing
+- conceptual architecture
+- structural development
+- authority building
+- disciplined commercialization
+- long-horizon consistency
+
+The role of the system is therefore not passive evaluation alone.
+
+Its deeper role is value construction.
+
+This means that strategic work should not ask only:
+
+- Is this asset strong?
+
+It should also ask:
+
+- How can this asset become stronger?
+- What kind of authority can be built around it?
+- What conditions would make its value more legible, more defensible, and more difficult to dismiss?
+
+The system is not a spectator of value.
+
+It is an instrument for building it.
+
+### 8. Secondary Income Must Support the Asset, Not Redefine It
 
 Recurring income may be useful and, in some cases, strategically important.
 
@@ -121,7 +154,7 @@ The correct standard is:
 
 secondary income is acceptable only when it preserves or strengthens the strategic quality of the asset.
 
-### 8. Buyer Chasing Is Not a Doctrine
+### 9. Buyer Chasing Is Not a Doctrine
 
 This system does not assume aggressive follow-up behavior as a mark of seriousness.
 
@@ -140,7 +173,7 @@ This reflects a deliberate posture:
 - patience over pressure
 - value compounding over attention chasing
 
-### 9. Development Over Desperation
+### 10. Development Over Desperation
 
 The system assumes that a serious asset can become more powerful through development.
 
@@ -159,7 +192,7 @@ The preferred answer to weak market recognition is often not louder selling.
 
 It is better asset construction.
 
-### 10. Not Every Domain Deserves Full Development
+### 11. Not Every Domain Deserves Full Development
 
 Discipline includes selection.
 
@@ -172,7 +205,7 @@ The doctrine rejects uniform treatment.
 
 Capital, time, and creative energy should be concentrated where strategic upside is highest.
 
-### 11. Portfolio Coherence Multiplies Power
+### 12. Portfolio Coherence Multiplies Power
 
 A single good asset matters.
 
