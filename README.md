@@ -1,6 +1,6 @@
 # Sovereign Asset System
 
-A system for constructing digital assets that are difficult to undervalue.
+> A system for constructing digital assets that are designed to be difficult to dismiss, not just difficult to undervalue.
 
 Not through hype.
 Not through speculation.
@@ -512,3 +512,11 @@ It is a doctrine-backed operating methodology for building stronger classes of d
 Its purpose is not to produce noise.
  
 Its purpose is to make selected digital assets more serious, more coherent, more defensible, more enduring, and more difficult to undervalue.
+
+## Where to Start
+
+- begin with `templates/portfolio-entry.md`
+- move to `skills/domain-strategic-assessment`
+- proceed to `templates/domain-dossier.md`
+
+This sequence reflects how the system should be applied in practice.
