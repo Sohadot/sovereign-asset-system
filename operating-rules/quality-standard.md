@@ -32,6 +32,26 @@ Every meaningful output in this repository must strengthen at least one of the f
 
 If an output does not strengthen one of these, it is probably noise.
 
+## Value Construction Standard
+
+High quality in this system does not mean simply describing an asset well.
+
+It also means increasing the quality of the asset itself through better strategic articulation.
+
+A strong output should do one or more of the following:
+
+- make the asset more legible
+- make the asset more defensible
+- make the asset more authoritative
+- make the asset more structurally coherent
+- make the asset more valuable in a long-horizon sense
+
+If a document merely describes without strengthening, its quality is limited.
+
+The highest-quality work in this system does not just observe value.
+
+It helps build it.
+
 ## Foundational Standard
 
 Work inside this system must meet the following baseline conditions:
