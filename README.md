@@ -1,4 +1,11 @@
 # Sovereign Asset System
+
+A system for constructing digital assets that are difficult to undervalue.
+
+Not through hype.
+Not through speculation.
+
+But through structure, authority, and long-term strategic positioning.
  
 ## Overview
  
