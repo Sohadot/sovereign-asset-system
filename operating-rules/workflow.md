@@ -461,6 +461,95 @@ Do not build merely because an idea is attractive.
 
 Build because the asset justifies structure.
 
+## Publication and Monetization Gates
+
+Before any asset output is published, and before any recurring income logic is activated, the asset must pass explicit decision gates.
+
+These gates exist to prevent conceptual drift, premature commercialization, and damage to long-horizon value posture.
+
+### Gate 1: Structural Stability
+
+Ask:
+
+- Is the asset's formal positioning clear?
+- Is the architecture coherent enough for public exposure?
+- Does the build reflect the doctrine rather than contradict it?
+- Is the asset stable enough to be seen as intentional rather than provisional?
+
+If not, do not publish yet.
+
+### Gate 2: Conceptual Integrity
+
+Ask:
+
+- Does the public-facing expression remain faithful to the asset's highest-value reading?
+- Has the narrative become clearer, or merely louder?
+- Is the asset still being framed at the right level of seriousness?
+- Has any part of the build cheapened the conceptual structure?
+
+If conceptual integrity is weak, revise before publication.
+
+### Gate 3: Authority Readiness
+
+Ask:
+
+- Does the asset look credible to a serious outside observer?
+- Does the content support authority rather than imitation?
+- Are the definitions, claims, and framing defensible?
+- Does the asset appear governed rather than improvised?
+
+If authority readiness is weak, strengthen before publication.
+
+### Gate 4: Revenue Compatibility
+
+Ask:
+
+- Would recurring income strengthen the asset, or redefine it downward?
+- Is the proposed revenue model aligned with the asset's dignity?
+- Would this revenue path damage future acquisition quality?
+- Is revenue remaining secondary to value maximization?
+
+If the revenue model introduces degradation, do not activate it.
+
+### Gate 5: Anti-Mobility Check
+
+Ask:
+
+- Is this move being made because it is strategically correct?
+- Or because speed, impatience, or activity pressure is driving it?
+- Is the asset actually ready, or merely available?
+
+If the move is driven by impatience rather than correctness, stop.
+
+## Gate Outcomes
+
+Each gate should produce one of the following outcomes:
+
+- Pass
+- Revise before proceeding
+- Delay until stronger maturity
+- Reject this path
+
+Publication should not happen because material exists.
+
+Monetization should not happen because revenue is possible.
+
+Both should happen only when the asset remains stronger after the move than before it.
+
+## Final Rule
+
+No publication or monetization step should be taken if it weakens:
+
+- strategic clarity
+- authority potential
+- dignity
+- long-horizon sale quality
+- conceptual coherence
+
+A sovereign-grade asset must become more legible and more defensible when exposed.
+
+If exposure weakens it, exposure was premature.
+
 ## Change Types
 
 Every meaningful repository change should belong to one of the following categories:
