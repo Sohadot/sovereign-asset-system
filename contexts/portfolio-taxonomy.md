@@ -88,6 +88,25 @@ The sector class helps determine:
 
 ---
 
+## Supra-Sector Rule
+
+Some assets should not be narrowed into a specific sector too early.
+
+This is especially true for domains whose highest strategic power comes from:
+
+- conceptual architecture
+- authority-layer potential
+- framework logic
+- category-over-category positioning
+
+In such cases, the first task is not immediate sector locking.
+
+The first task is to determine whether the asset's highest-value reading sits above a single vertical.
+
+Only after that should sector application paths be identified.
+
+Do not force early narrowing if it reduces strategic ceiling.
+
 ## 2. Geographic Orientation
 
 This layer identifies whether the asset is linked to a geography, useful within a geography, or globally portable.
