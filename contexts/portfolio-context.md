@@ -43,6 +43,27 @@ The primary objective is to increase the strategic, narrative, and commercial le
 
 This portfolio is governed by value maximization, not quick turnover.
 
+## Value Construction Principle
+
+The portfolio is not governed by passive waiting alone.
+
+It is governed by selective value construction.
+
+This means that the owner does not merely wait for outside validation to determine whether an asset matters.
+
+Instead, selected assets may be strengthened deliberately through:
+
+- conceptual positioning
+- narrative depth
+- reference-quality structure
+- authority-layer development
+- clearer buyer legibility
+- disciplined digital presence
+
+The objective is not to fabricate false value.
+
+The objective is to build the conditions under which real strategic value becomes clearer, stronger, and harder to ignore.
+
 ## Secondary Objective
 
 Recurring income matters, but it is secondary.
