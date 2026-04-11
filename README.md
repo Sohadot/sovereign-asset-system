@@ -24,6 +24,29 @@ It optimizes for long-term strategic value.
 - reference-grade digital surfaces
 - controlled commercialization logic
 - long-horizon acquisition positioning
+
+  ## System Role
+
+This system is not a content framework.
+
+It is a decision system.
+
+It exists to remove randomness from how digital assets are built, evaluated, and positioned over time.
+
+## Scope
+
+This system is designed for high-value digital assets.
+
+Not for mass content production.  
+Not for short-term monetization.  
+
+Only for assets that are intended to carry long-term strategic value.
+
+## Application
+
+This system is actively used to develop and structure real digital assets across different domains.
+
+Each asset is treated as a long-term strategic surface, not a disposable project.
  
 ## Overview
  
