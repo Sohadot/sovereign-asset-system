@@ -88,7 +88,7 @@ The sector class helps determine:
 
 ---
 
-## Supra-Sector Rule
+## 2. Supra-Sector Rule
 
 Some assets should not be narrowed into a specific sector too early.
 
@@ -107,7 +107,43 @@ Only after that should sector application paths be identified.
 
 Do not force early narrowing if it reduces strategic ceiling.
 
-## 2. Geographic Orientation
+## 3. Supra-Sector Interpretation Rule
+
+Some assets should not be narrowed into a specific sector too early.
+
+This is especially true for domains whose highest strategic power comes from:
+
+- conceptual architecture
+- authority-layer potential
+- framework logic
+- category-over-category positioning
+- long-horizon interpretive flexibility
+
+In such cases, the first task is not immediate vertical locking.
+
+The first task is to determine whether the asset's highest-value reading sits above a single sector.
+
+Only after that should sector application paths be identified.
+
+This means that an asset may initially be interpreted as:
+
+- supra-sector
+- cross-sector
+- category-over-category
+- framework-level
+- authority-layer-first
+
+before being assigned narrower applied sector routes.
+
+Do not force early narrowing if it reduces the strategic ceiling of the asset.
+
+Do not mistake implementation pathways for the highest-level identity of the asset.
+
+The highest-value reading should be identified first.
+
+Sector applications should follow second.
+
+## 4. Geographic Orientation
 
 This layer identifies whether the asset is linked to a geography, useful within a geography, or globally portable.
 
@@ -140,7 +176,7 @@ This distinction must be made explicit.
 
 ---
 
-## 3. Asset Mode
+## 5. Asset Mode
 
 This is one of the most important layers in the taxonomy.
 
@@ -191,7 +227,7 @@ Asset mode affects:
 
 ---
 
-## 4. Buyer Type
+## 6. Buyer Type
 
 This layer identifies the most plausible future owner, acquirer, or operator.
 
@@ -226,7 +262,7 @@ With buyer clarity, the asset becomes commercially legible.
 
 ---
 
-## 5. Development Depth
+## 7. Development Depth
 
 This layer defines how deeply the asset should be built.
 
@@ -257,7 +293,7 @@ A large portfolio requires disciplined allocation of effort.
 
 ---
 
-## 6. Commercialization Orientation
+## 8. Commercialization Orientation
 
 This layer defines how the asset should be approached commercially.
 
@@ -303,7 +339,7 @@ May serve a strategic role inside the portfolio beyond immediate sale logic.
 
 ---
 
-## 7. Revenue Tolerance
+## 9. Revenue Tolerance
 
 This layer identifies how much monetization the asset can tolerate without suffering conceptual dilution.
 
@@ -334,7 +370,7 @@ using the wrong monetization logic on the wrong asset.
 
 ---
 
-## 8. Scarcity / Semantic Force
+## 10. Scarcity / Semantic Force
 
 This layer captures the linguistic and symbolic strength of the domain itself.
 
@@ -367,7 +403,7 @@ A geography-command asset should not be framed like a playful consumer brand.
 
 ---
 
-## 9. Portfolio Role
+## 11. Portfolio Role
 
 This layer asks what role the asset plays inside the portfolio as a whole.
 
@@ -393,7 +429,7 @@ Portfolio role helps decide where leadership attention goes first.
 
 ---
 
-## 10. Maturity Stage
+## 12. Maturity Stage
 
 This layer identifies where the asset currently sits in its lifecycle.
 
