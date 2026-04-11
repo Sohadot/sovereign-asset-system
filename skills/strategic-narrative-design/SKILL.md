@@ -121,6 +121,27 @@ Design the narrative in this order:
 
 This order prevents aesthetic language from replacing strategic clarity.
 
+## Multi-Layer Narrative Rule
+
+Some assets carry more than one narrative layer.
+
+When this happens, do not flatten them into a single slogan.
+
+Instead, separate the layers by function.
+
+Typical narrative layers may include:
+
+- structural layer
+- philosophical layer
+- symbolic layer
+
+The structural layer should provide the clearest formal positioning.
+The philosophical layer should explain the deeper necessity of the asset.
+The symbolic layer should provide higher-order distinctiveness without replacing legibility.
+
+Do not confuse these layers.
+Do not present the symbolic layer as the primary explanation if it weakens clarity.
+
 ## Narrative Design Dimensions
 
 Assess and construct the narrative across the following dimensions.
