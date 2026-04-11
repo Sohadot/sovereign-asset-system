@@ -142,6 +142,49 @@ The symbolic layer should provide higher-order distinctiveness without replacing
 Do not confuse these layers.
 Do not present the symbolic layer as the primary explanation if it weakens clarity.
 
+## Narrative Hierarchy Rule
+
+When an asset carries multiple conceptual layers, those layers must be arranged by function rather than treated as interchangeable themes.
+
+Use the following hierarchy:
+
+### 1. Structural Layer
+This is the clearest formal positioning layer.
+
+Its job is to explain what the asset is in a way that can govern homepage positioning, architecture, categorization, and institutional legibility.
+
+This layer must be the most stable and the most operationally usable.
+
+### 2. Philosophical Layer
+This is the deeper necessity layer.
+
+Its job is to explain why the asset matters at a more fundamental level, what condition or problem it addresses, and what larger tension gives it strategic weight.
+
+This layer should deepen legitimacy, not replace clarity.
+
+### 3. Symbolic Layer
+This is the higher-order distinctiveness layer.
+
+Its job is to give the asset rarity, memorability, conceptual elevation, and a stronger mythic or civilizational edge without weakening formal legibility.
+
+This layer must never become the primary explanation if doing so introduces unnecessary ambiguity.
+
+## Hierarchy Discipline
+
+The structural layer defines the asset.
+
+The philosophical layer justifies the asset.
+
+The symbolic layer elevates the asset.
+
+Do not flatten these layers into one rhetorical blur.
+
+Do not present the symbolic layer first if the asset still needs formal clarity.
+
+Do not let philosophical language replace usable positioning.
+
+A strong narrative system preserves all three layers while keeping their roles distinct.
+
 ## Narrative Design Dimensions
 
 Assess and construct the narrative across the following dimensions.
