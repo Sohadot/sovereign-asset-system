@@ -288,6 +288,26 @@ If development is the correct path, the asset moves toward build planning and im
 ### Stage 10: Ongoing Review
 The asset may be reclassified, strengthened, held, or re-entered into buyer-facing logic later.
 
+## Value Construction Workflow Rule
+
+The asset workflow must not be interpreted as a passive filter for deciding whether an asset is worthy.
+
+Its purpose is also to identify how an asset can be strengthened.
+
+This means:
+
+- portfolio entry should identify the best path for value development
+- strategic assessment should identify the highest-value trajectory
+- narrative design should deepen strategic legitimacy
+- buyer-fit analysis should improve ownership logic, not merely test it
+- dossier creation should consolidate the layers that increase authority and asset maturity
+
+The workflow is therefore not only classificatory.
+
+It is constructive.
+
+The repository should help move selected assets from latent value to clearer strategic value.
+
 ## Workflow by Asset Condition
 
 Not every asset should move through the full sequence.
