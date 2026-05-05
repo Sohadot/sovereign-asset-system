@@ -402,6 +402,35 @@ The system is only effective when:
 If one layer weakens, the entire system degrades.
 
 This repository must therefore be treated as a governed architecture, not a flexible workspace.
+
+### 8. Cloudflare Governance Layer
+
+Cloudflare is treated as an edge-governance layer.
+
+It may support:
+
+- DNS
+- nameserver delegation
+- TLS / HTTPS
+- redirects
+- security posture
+- caching
+- Cloudflare Pages
+- custom domain control
+
+This system does not use Cloudflare API automation.
+
+AI agents may assist with Cloudflare only through dashboard-guided operation, under owner supervision, and without requesting or storing credentials.
+
+GitHub remains the source of truth.
+
+Cloudflare must not create hidden deployment paths, unmanaged edge logic, or undocumented operational state.
+
+Cloudflare dashboard operations are governed by:
+
+- `skills/cloudflare-dashboard-operator/SKILL.md`
+- `operating-rules/cloudflare-governance.md`
+- `templates/cloudflare-asset-onboarding.md`
   
 ## Governing Principles
  
