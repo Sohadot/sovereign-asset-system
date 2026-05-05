@@ -243,3 +243,23 @@ No hidden automation.
 No uncontrolled account-wide action.
 
 Cloudflare must support the sovereign asset architecture, not replace it.
+
+---
+
+## Mandatory Operating Clause
+
+Use Cloudflare dashboard operation only.
+
+Do not use Cloudflare API.
+
+Do not request or create API tokens.
+
+The owner will log in manually and approve sensitive dashboard actions before execution.
+
+The agent may assist only through Cloudflare dashboard-guided operation under owner supervision.
+
+No Cloudflare credentials, passwords, API tokens, global API keys, recovery codes, or secrets may be requested, stored, copied, exposed, or committed.
+
+GitHub remains the source of truth.
+
+Cloudflare is only an edge-governance layer for DNS, TLS, redirects, security posture, caching, custom domains, and Cloudflare Pages configuration when approved.
