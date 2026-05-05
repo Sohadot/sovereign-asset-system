@@ -431,6 +431,22 @@ Cloudflare dashboard operations are governed by:
 - `skills/cloudflare-dashboard-operator/SKILL.md`
 - `operating-rules/cloudflare-governance.md`
 - `templates/cloudflare-asset-onboarding.md`
+
+### Cloudflare Governance Layer
+
+Cloudflare is treated as an edge-governance layer.
+
+This system does not use Cloudflare API automation.
+
+AI agents may assist with Cloudflare only through dashboard-guided operation, under owner supervision, and without requesting or storing credentials.
+
+GitHub remains the source of truth.
+
+Cloudflare dashboard operations are governed by:
+
+- `skills/cloudflare-dashboard-operator/SKILL.md`
+- `operating-rules/cloudflare-governance.md`
+- `templates/cloudflare-asset-onboarding.md`
   
 ## Governing Principles
  
