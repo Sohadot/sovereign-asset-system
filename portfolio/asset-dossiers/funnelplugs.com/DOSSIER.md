@@ -7,6 +7,7 @@
 - **Primary Owner Context:** active build / targeted commercialization
 - **Date Opened:** 2026-01-01
 - **Last Updated:** 2026-06-01
+- **Build Phase:** Phase 2 complete / Phase 3 active
 
 ---
 
@@ -162,14 +163,17 @@ FunnelPlugs is the only system that has formally named and classified what was a
 | Dimension | Current State | Gap |
 |-----------|--------------|-----|
 | Conceptual framework | ✅ Complete (Ontology, Manifesto, Protocol, Standard) | None |
-| Reference library depth | ⚠️ Partially thin (leaf pages 500-700 words) | Expand to 1000+ words each |
-| JSON-LD structured data | ✅ Active on core pages | Apply to all leaf pages |
-| Unique keyword targeting | ✅ Applied to core pages | Apply to remaining leaf pages |
-| Monetization layer | ❌ Not yet active | Affiliate layer + engine email gate |
-| Acquisition layer | ✅ strategic-value.html published | Complete |
-| Internal link architecture | ✅ Strong on core pages | Strengthen on leaf pages |
-| Email list asset | ❌ Not yet built | Engine gate implementation |
-| FunnelPlugs dossier (SAS) | ✅ This document | Complete |
+| Reference library depth | ✅ All 32 pages at 1,000–1,500+ words | None |
+| JSON-LD structured data | ✅ Article + FAQPage on all content pages | None |
+| Unique keyword targeting | ✅ Unique keyword clusters on all pages | None |
+| Monetization layer | ✅ Active (email gate + affiliate structure + brief) | Activate affiliate links when agreements signed |
+| Acquisition layer | ✅ strategic-value.html + BUYER-BRIEF.md | Complete |
+| Internal link architecture | ✅ Full internal linking across all 32 pages | None |
+| Email capture surfaces | ✅ engine.html (post-completion gate) + structural-integrity-brief.html | None |
+| Affiliate structure | ✅ Placed on friction/trust/recovery pages (3 categories, 9 slots) | Sign affiliate agreements to activate links |
+| Sitemap governance | ✅ All pages indexed with correct priorities and lastmod dates | None |
+| FunnelPlugs dossier (SAS) | ✅ This document | Ongoing update |
+| Buyer brief (SAS) | ✅ BUYER-BRIEF.md published | None |
 
 ---
 
@@ -188,28 +192,87 @@ Funnelplugs.com should not be listed on general domain marketplaces. Its positio
 
 ---
 
+## Buyer Outreach Targets
+
+### Target Tier 1: Strategic Platform Acquirers
+
+**1. ClickFunnels**
+- **Why:** Domain name alignment is the most direct in the space. "FunnelPlugs" names a category within their core product domain. The Plug Ontology would give ClickFunnels a formal intellectual framework to position their platform as the standard, not just a tool.
+- **Acquisition use case:** Rebrand the engine as a ClickFunnels diagnostic, publish the Plug Ontology as ClickFunnels' formal funnel analysis standard, use the category vocabulary in their onboarding and education content.
+- **Contact approach:** VP of Product or CMO at ClickFunnels. Frame as "acquisition of the category classification layer that ClickFunnels should own."
+- **Fit:** Extremely high — name, category, framework all align.
+
+**2. HubSpot**
+- **Why:** HubSpot needs a formal funnel integrity framework to complement their analytics and CRM offering. They have the distribution to make FunnelPlugs' vocabulary mainstream.
+- **Acquisition use case:** Integrate the Plug Ontology into HubSpot's diagnostic reporting layer. The engine becomes a HubSpot-branded path audit tool. The framework gives HubSpot a formal standard that their competitors cannot easily replicate.
+- **Contact approach:** VP Product, HubSpot CRM/Marketing division. Frame as "funnel integrity standard that HubSpot should publish and govern."
+- **Fit:** Very high. HubSpot has the distribution; FunnelPlugs has the framework.
+
+**3. Hotjar**
+- **Why:** Hotjar's product is behavioral analytics — they observe what happens in funnels but lack a formal classification framework for what they're seeing. The Plug Ontology would give Hotjar a classification layer that turns observation into structured diagnosis.
+- **Acquisition use case:** Integrate the Plug Ontology into Hotjar's insight layer — when session recordings show hesitation, Hotjar recommends the relevant plug class. The engine becomes a Hotjar onboarding diagnostic.
+- **Contact approach:** VP Product or Head of Partnerships at Hotjar. Frame as "the classification system your behavioral data has always been pointing at."
+- **Fit:** Very high. Hotjar observes; FunnelPlugs classifies. The combination is compelling.
+
+**4. Klaviyo**
+- **Why:** Klaviyo is the market-leading email automation platform for e-commerce. Recovery Absence is the most commercially costly leak class for e-commerce operators. The Plug Ontology and diagnostic engine would give Klaviyo a formal framework for explaining why their product exists.
+- **Acquisition use case:** The engine becomes Klaviyo's "Funnel Health Assessment" onboarding flow. The Recovery Absence and Flow Break classifications map directly to Klaviyo's core product use cases.
+- **Contact approach:** VP Marketing or Chief Strategy Officer. Frame as "the structural framework that makes Klaviyo's product rationale irrefutable."
+- **Fit:** High — strong alignment on the Recovery dimension specifically.
+
+**5. Conversion Rate Experts (CRE)**
+- **Why:** CRE is one of the most prestigious CRO agencies globally. A formal published ontology would allow CRE to say "our methodology is the only one built on a formally published, governed classification system" — a distinction that no other CRO agency can claim.
+- **Acquisition use case:** CRE licenses or acquires the framework, brands their audit methodology around the Plug Ontology, publishes client case studies using the leak/plug class vocabulary, uses the domain as an authority reference that points to CRE as its governing entity.
+- **Contact approach:** Founder or Managing Director level. Frame as "the intellectual infrastructure your methodology has been missing."
+- **Fit:** High for differentiation. Moderate on willingness to acquire (agencies tend toward service rather than IP acquisition).
+
+---
+
+### Outreach Sequencing
+
+Approach in this order:
+1. Hotjar (product-framework fit is cleanest; acquisition rationale easiest to articulate)
+2. ClickFunnels (domain name alignment makes the case self-evident)
+3. HubSpot (largest acquirer, most complex process; start last when positioning is proven)
+4. Klaviyo (secondary target if HubSpot or ClickFunnels engage first)
+5. CRE (agency acquisition requires different framing; approach as licensing if preferred)
+
+**Outreach minimum threshold:** asset must be indexed with at least 20 organic entries in Google Search Console before first outreach. Authority is more convincing when demonstrable, not just claimed.
+
+---
+
 ## Next Build Actions
 
-### Immediate (Phase 1 — in progress)
+### Phase 1 (Content Layer) — COMPLETE
 - [x] Rewrite Manifesto with full intellectual depth
 - [x] Rewrite Protocol with methodological depth
 - [x] Rewrite Standard with formal precision
 - [x] Create strategic-value.html (acquisition layer)
 - [x] Add WebSite + Organization JSON-LD to index.html
 - [x] Update sitemap.xml with priorities and new pages
-- [ ] Add JSON-LD to all remaining leaf pages
-- [ ] Expand leaf pages to 1000+ words each
-- [ ] Unique keyword targeting for all remaining pages
+- [x] Add JSON-LD (Article + FAQPage) to all 32 pages
+- [x] Expand all pages to 1,000+ words reference depth
+- [x] Unique keyword clusters for all pages
+- [x] Full internal link architecture across all pages
 
-### Phase 2 (Monetization)
-- [ ] Engine email gate implementation
-- [ ] Affiliate placement layer (contextual, 5-8 tools)
-- [ ] Structural Integrity Brief (email-gated resource)
+### Phase 2 (Monetization Layer) — COMPLETE
+- [x] Engine email gate implementation (engine.html + engine.js)
+- [x] Affiliate placement structure (3 pages × 3 slots = 9 slots, marked AFFILIATE-SLOT)
+- [x] Structural Integrity Brief (structural-integrity-brief.html, email-gated)
 
-### Phase 3 (Acquisition Preparation)
-- [ ] Buyer brief (formal document for outreach)
-- [ ] Asset data manifest (traffic, indexed pages, content counts)
-- [ ] Selected buyer outreach (3-5 tier-1 targets identified)
+### Phase 3 (Acquisition Preparation) — IN PROGRESS
+- [x] Buyer brief — BUYER-BRIEF.md in sovereign-asset-system
+- [x] Named buyer outreach targets identified (5 tier-1 targets above)
+- [ ] Asset data manifest (page count, word counts, schema types, indexed pages)
+- [ ] Search Console verification and indexing confirmation
+- [ ] Affiliate agreements (Hotjar, Klaviyo, Trustpilot categories)
+- [ ] First outreach to Hotjar (after indexing threshold met)
+
+### Phase 4 (Interface Thesis — Pending)
+- [ ] Conceptual visual metaphor: plug-and-leak system state visualization
+- [ ] System state micro-interactions (none that merely decorate)
+- [ ] Interface audit against 9-question thesis test
+- [ ] Any additions must pass: does it serve the thesis, or merely decorate it?
 
 ---
 
