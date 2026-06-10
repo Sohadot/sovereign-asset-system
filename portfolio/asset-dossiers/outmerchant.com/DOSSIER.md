@@ -408,6 +408,11 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** build / narrative / priority update
+- **Summary:** Sprint 2C-2 complete (DEC-014) — definitional authority achieved. Live: /lexicon/ as the canonical DefinedTermSet surface, 13 canonical term pages with governed definitions published verbatim (drift mechanically impossible — 7th gate validator), the headword page presenting outmerchant/OutMerchant as verb + rank with the referential closure, and /protocol/ binding the system in standards register (named, measured, explained, protected). Meaning network now bidirectional across 29 active routes and 114 edges. Phase 4 fully complete.
+- **Strategic Meaning:** The asset now owns its category's language in indexed, citable, machine-readable form — the definitional-priority leverage source is fully constructed. The surface is complete for the first external test: owner-side Google Search Console verification and sitemap submission (Phase 6). After indexation data arrives, Phase 5 (AI commerce doctrine layer) follows.
+
+- **Date:** 2026-06-10
 - **Change Type:** build / priority update
 - **Summary:** Sprint 2C-1 complete (DEC-013) — the asset moves from diagnostic product to reference standard surface. Live: 8 dimension reference pages and 4 tier definition pages generated from the governed model (drift-proof builder), /levels/outmerchant/ formally defining the protected terminal rank, full cross-link topology (14 active routes, 99 registry edges), sitemap of active routes only, and a sixth gate validator enforcing reference integrity. All pages indexable and non-thin (271–456 words); no monetization, no email capture, no marketplace claims.
 - **Strategic Meaning:** Phase 4 substantially complete — every concept the standard measures is now a citable reference page, converting the asset's definitional-priority claim into indexed, machine-readable reality. Remaining for full Phase 4: lexicon term pages and /protocol/. Maturity: built (reference layer live). Next milestone: lexicon pages, then owner-side Search Console verification (first external indexation proof).
