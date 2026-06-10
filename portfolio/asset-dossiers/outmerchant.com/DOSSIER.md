@@ -408,6 +408,11 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** build / priority update
+- **Summary:** Sprint 2C-1 complete (DEC-013) — the asset moves from diagnostic product to reference standard surface. Live: 8 dimension reference pages and 4 tier definition pages generated from the governed model (drift-proof builder), /levels/outmerchant/ formally defining the protected terminal rank, full cross-link topology (14 active routes, 99 registry edges), sitemap of active routes only, and a sixth gate validator enforcing reference integrity. All pages indexable and non-thin (271–456 words); no monetization, no email capture, no marketplace claims.
+- **Strategic Meaning:** Phase 4 substantially complete — every concept the standard measures is now a citable reference page, converting the asset's definitional-priority claim into indexed, machine-readable reality. Remaining for full Phase 4: lexicon term pages and /protocol/. Maturity: built (reference layer live). Next milestone: lexicon pages, then owner-side Search Console verification (first external indexation proof).
+
+- **Date:** 2026-06-10
 - **Change Type:** build / narrative / priority update
 - **Summary:** Sprint 2B complete — the Merchant Sovereignty Score instrument is live at /score/: free, client-side, reads exclusively from the governed model, full eight-dimension breakdown, four-tier classification, machine-readable JSON export. Constitutional layer extended: ASSET_THESIS.md (category artifact strategy, five inevitability mechanisms), DEC-009 (category named "Merchant Sovereignty"), DEC-010 (audience layering: merchants → companies/investors → analysts/journalists → researchers/students/governments/AI), DEC-011 ("Agent-Selectable Merchant" admitted to lexicon), DEC-012 (instrument contract). Scoring verified across full range (0=Captured … 100=OutMerchant).
 - **Strategic Meaning:** Phase 3 converts the asset from conceptual story into a working, indexable standard — the first moment OutMerchant measures what it claims to define. Maturity advances toward "built"; Phase 4 (reference standard: dimension, level, lexicon, protocol pages) is unblocked.
