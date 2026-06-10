@@ -408,6 +408,11 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** build / engagement / monetization / priority update
+- **Summary:** Sprint 3A complete (DEC-015 — Category Gravity Before Value Extraction). Constitutional commercial posture codified in CATEGORY_GRAVITY.md: no buyer outreach, no public sale posture, no marketplace claims, no monetization before external value proof. Score Engine reinforced as the governed proof layer: result explainability (weakest dimensions + governed next actions + per-tier route interpretation), governed guidance data layer, visible Engine Boundary (no revenue prediction, no certification, no storage, no transmission), upgraded machine-readable export, curated internal links. Gate now 8 validators; indexation intelligence log opened with honest pending placeholders.
+- **Strategic Meaning:** The dossier's engagement posture (Do Not Engage Yet) and revenue gates are now enforced inside the asset repository itself, not only in this dossier — the asset structurally cannot drift into premature commercialization. Next milestone remains owner-gated: Search Console verification, then Sprint 3B (indexation review + AI commerce doctrine layer).
+
+- **Date:** 2026-06-10
 - **Change Type:** build / narrative / priority update
 - **Summary:** Sprint 2C-2 complete (DEC-014) — definitional authority achieved. Live: /lexicon/ as the canonical DefinedTermSet surface, 13 canonical term pages with governed definitions published verbatim (drift mechanically impossible — 7th gate validator), the headword page presenting outmerchant/OutMerchant as verb + rank with the referential closure, and /protocol/ binding the system in standards register (named, measured, explained, protected). Meaning network now bidirectional across 29 active routes and 114 edges. Phase 4 fully complete.
 - **Strategic Meaning:** The asset now owns its category's language in indexed, citable, machine-readable form — the definitional-priority leverage source is fully constructed. The surface is complete for the first external test: owner-side Google Search Console verification and sitemap submission (Phase 6). After indexation data arrives, Phase 5 (AI commerce doctrine layer) follows.
