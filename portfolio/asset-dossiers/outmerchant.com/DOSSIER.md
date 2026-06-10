@@ -408,6 +408,11 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** build / priority update
+- **Summary:** Sprint 2A complete — Governance Operating System installed in the asset repository: seven governance laws (score, lexicon, routes, claims, AI readability, quality gate, decision log with DEC-001..008), a governed data layer (8-dimension score model, 20-question bank, 4 fixed tiers with "OutMerchant" as inviolable terminal rank, 14-term canonical lexicon, 28-route registry, 85-edge required link graph), and a mechanical quality gate (5 validators + CI) verified green and verified to catch inviolable-element tampering.
+- **Strategic Meaning:** The asset now resists imitation structurally, not rhetorically: a copier would need to replicate a meaning system, a measurement system, a governance system, a quality system, and a decision history — not a page. Sprint 2B (build /score/ from the governed model) is unblocked and must ship through the gate.
+
+- **Date:** 2026-06-10
 - **Change Type:** assessment / narrative / buyer-fit / build
 - **Summary:** Dossier opened. Full strategic assessment, narrative architecture, buyer-fit analysis, engagement and negotiation posture, revenue gates, and three-phase build direction established. Phase 1 (definitional/reference layer on live surface) initiated in the Outmerchan repository.
 - **Strategic Meaning:** The asset moves from "positioned landing page" to governed tier-1 flagship under full Sovereign Asset System doctrine, with an explicit mechanism for unbypassability: self-referential tier structure plus definitional priority over the category vocabulary.
