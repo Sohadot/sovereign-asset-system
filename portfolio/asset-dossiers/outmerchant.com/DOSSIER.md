@@ -408,6 +408,11 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** build / narrative / priority update
+- **Summary:** Sprint 2B complete — the Merchant Sovereignty Score instrument is live at /score/: free, client-side, reads exclusively from the governed model, full eight-dimension breakdown, four-tier classification, machine-readable JSON export. Constitutional layer extended: ASSET_THESIS.md (category artifact strategy, five inevitability mechanisms), DEC-009 (category named "Merchant Sovereignty"), DEC-010 (audience layering: merchants → companies/investors → analysts/journalists → researchers/students/governments/AI), DEC-011 ("Agent-Selectable Merchant" admitted to lexicon), DEC-012 (instrument contract). Scoring verified across full range (0=Captured … 100=OutMerchant).
+- **Strategic Meaning:** Phase 3 converts the asset from conceptual story into a working, indexable standard — the first moment OutMerchant measures what it claims to define. Maturity advances toward "built"; Phase 4 (reference standard: dimension, level, lexicon, protocol pages) is unblocked.
+
+- **Date:** 2026-06-10
 - **Change Type:** build / priority update
 - **Summary:** Sprint 2A complete — Governance Operating System installed in the asset repository: seven governance laws (score, lexicon, routes, claims, AI readability, quality gate, decision log with DEC-001..008), a governed data layer (8-dimension score model, 20-question bank, 4 fixed tiers with "OutMerchant" as inviolable terminal rank, 14-term canonical lexicon, 28-route registry, 85-edge required link graph), and a mechanical quality gate (5 validators + CI) verified green and verified to catch inviolable-element tampering.
 - **Strategic Meaning:** The asset now resists imitation structurally, not rhetorically: a copier would need to replicate a meaning system, a measurement system, a governance system, a quality system, and a decision history — not a page. Sprint 2B (build /score/ from the governed model) is unblocked and must ship through the gate.
