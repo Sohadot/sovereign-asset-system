@@ -408,6 +408,11 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** assessment / priority update
+- **Summary:** Phase 6A external verification recorded (owner-provided): Google Search Console verified, sitemap read with Success status and 29 pages discovered — exact parity with the governed registry; Bing Webmaster Tools verified, sitemap processing, priority URLs manually submitted; Cloudflare edge layer activated on the domain. First external confirmation that the governed surface and the public surface do not diverge.
+- **Strategic Meaning:** The asset crossed from self-attested authority to externally observed surface. Indexation (vs. discovery) is now the metric to watch; review window 7-14 days. Sprint 3B (indexation intelligence review + Phase 5 AI commerce doctrine layer) triggers when first impressions/indexing data arrive.
+
+- **Date:** 2026-06-10
 - **Change Type:** build / engagement / monetization / priority update
 - **Summary:** Sprint 3A complete (DEC-015 — Category Gravity Before Value Extraction). Constitutional commercial posture codified in CATEGORY_GRAVITY.md: no buyer outreach, no public sale posture, no marketplace claims, no monetization before external value proof. Score Engine reinforced as the governed proof layer: result explainability (weakest dimensions + governed next actions + per-tier route interpretation), governed guidance data layer, visible Engine Boundary (no revenue prediction, no certification, no storage, no transmission), upgraded machine-readable export, curated internal links. Gate now 8 validators; indexation intelligence log opened with honest pending placeholders.
 - **Strategic Meaning:** The dossier's engagement posture (Do Not Engage Yet) and revenue gates are now enforced inside the asset repository itself, not only in this dossier — the asset structurally cannot drift into premature commercialization. Next milestone remains owner-gated: Search Console verification, then Sprint 3B (indexation review + AI commerce doctrine layer).
