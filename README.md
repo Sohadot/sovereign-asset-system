@@ -565,3 +565,14 @@ Its purpose is to make selected digital assets more serious, more coherent, more
 - proceed to `templates/domain-dossier.md`
 
 This sequence reflects how the system should be applied in practice.
+
+## Live Reference Surface
+
+This system is applied in production at **[sohadot.com](https://sohadot.com)** — an independent domain intelligence platform built on this doctrine:
+
+- [Structured Domain Valuation](https://sohadot.com/valuation.html) — lexical legitimacy, commercial keyword logic, TLD fit, comparable sales
+- [Premium Domain Portfolio](https://sohadot.com/portfolio.html) — 445+ assets classified under this system's taxonomy
+- [Monthly Keyword Intelligence](https://sohadot.com/keywords.html) and [Weekly Drop Watchlists](https://sohadot.com/dropping.html)
+- [Knowledge Base](https://sohadot.com/knowledge-base.html) — the public-facing layer of the valuation doctrine
+
+The platform's source and automation pipelines live at [Sohadot/Sohadot](https://github.com/Sohadot/Sohadot).
