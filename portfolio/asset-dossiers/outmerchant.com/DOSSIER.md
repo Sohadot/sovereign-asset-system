@@ -408,6 +408,31 @@ Definitional priority is the asset's primary leverage source, and definitional p
 ## Update Log
 
 - **Date:** 2026-06-10
+- **Change Type:** assessment / priority update
+- **Summary:** Phase 6A external verification recorded (owner-provided): Google Search Console verified, sitemap read with Success status and 29 pages discovered — exact parity with the governed registry; Bing Webmaster Tools verified, sitemap processing, priority URLs manually submitted; Cloudflare edge layer activated on the domain. First external confirmation that the governed surface and the public surface do not diverge.
+- **Strategic Meaning:** The asset crossed from self-attested authority to externally observed surface. Indexation (vs. discovery) is now the metric to watch; review window 7-14 days. Sprint 3B (indexation intelligence review + Phase 5 AI commerce doctrine layer) triggers when first impressions/indexing data arrive.
+
+- **Date:** 2026-06-10
+- **Change Type:** build / engagement / monetization / priority update
+- **Summary:** Sprint 3A complete (DEC-015 — Category Gravity Before Value Extraction). Constitutional commercial posture codified in CATEGORY_GRAVITY.md: no buyer outreach, no public sale posture, no marketplace claims, no monetization before external value proof. Score Engine reinforced as the governed proof layer: result explainability (weakest dimensions + governed next actions + per-tier route interpretation), governed guidance data layer, visible Engine Boundary (no revenue prediction, no certification, no storage, no transmission), upgraded machine-readable export, curated internal links. Gate now 8 validators; indexation intelligence log opened with honest pending placeholders.
+- **Strategic Meaning:** The dossier's engagement posture (Do Not Engage Yet) and revenue gates are now enforced inside the asset repository itself, not only in this dossier — the asset structurally cannot drift into premature commercialization. Next milestone remains owner-gated: Search Console verification, then Sprint 3B (indexation review + AI commerce doctrine layer).
+
+- **Date:** 2026-06-10
+- **Change Type:** build / narrative / priority update
+- **Summary:** Sprint 2C-2 complete (DEC-014) — definitional authority achieved. Live: /lexicon/ as the canonical DefinedTermSet surface, 13 canonical term pages with governed definitions published verbatim (drift mechanically impossible — 7th gate validator), the headword page presenting outmerchant/OutMerchant as verb + rank with the referential closure, and /protocol/ binding the system in standards register (named, measured, explained, protected). Meaning network now bidirectional across 29 active routes and 114 edges. Phase 4 fully complete.
+- **Strategic Meaning:** The asset now owns its category's language in indexed, citable, machine-readable form — the definitional-priority leverage source is fully constructed. The surface is complete for the first external test: owner-side Google Search Console verification and sitemap submission (Phase 6). After indexation data arrives, Phase 5 (AI commerce doctrine layer) follows.
+
+- **Date:** 2026-06-10
+- **Change Type:** build / priority update
+- **Summary:** Sprint 2C-1 complete (DEC-013) — the asset moves from diagnostic product to reference standard surface. Live: 8 dimension reference pages and 4 tier definition pages generated from the governed model (drift-proof builder), /levels/outmerchant/ formally defining the protected terminal rank, full cross-link topology (14 active routes, 99 registry edges), sitemap of active routes only, and a sixth gate validator enforcing reference integrity. All pages indexable and non-thin (271–456 words); no monetization, no email capture, no marketplace claims.
+- **Strategic Meaning:** Phase 4 substantially complete — every concept the standard measures is now a citable reference page, converting the asset's definitional-priority claim into indexed, machine-readable reality. Remaining for full Phase 4: lexicon term pages and /protocol/. Maturity: built (reference layer live). Next milestone: lexicon pages, then owner-side Search Console verification (first external indexation proof).
+
+- **Date:** 2026-06-10
+- **Change Type:** build / narrative / priority update
+- **Summary:** Sprint 2B complete — the Merchant Sovereignty Score instrument is live at /score/: free, client-side, reads exclusively from the governed model, full eight-dimension breakdown, four-tier classification, machine-readable JSON export. Constitutional layer extended: ASSET_THESIS.md (category artifact strategy, five inevitability mechanisms), DEC-009 (category named "Merchant Sovereignty"), DEC-010 (audience layering: merchants → companies/investors → analysts/journalists → researchers/students/governments/AI), DEC-011 ("Agent-Selectable Merchant" admitted to lexicon), DEC-012 (instrument contract). Scoring verified across full range (0=Captured … 100=OutMerchant).
+- **Strategic Meaning:** Phase 3 converts the asset from conceptual story into a working, indexable standard — the first moment OutMerchant measures what it claims to define. Maturity advances toward "built"; Phase 4 (reference standard: dimension, level, lexicon, protocol pages) is unblocked.
+
+- **Date:** 2026-06-10
 - **Change Type:** build / priority update
 - **Summary:** Sprint 2A complete — Governance Operating System installed in the asset repository: seven governance laws (score, lexicon, routes, claims, AI readability, quality gate, decision log with DEC-001..008), a governed data layer (8-dimension score model, 20-question bank, 4 fixed tiers with "OutMerchant" as inviolable terminal rank, 14-term canonical lexicon, 28-route registry, 85-edge required link graph), and a mechanical quality gate (5 validators + CI) verified green and verified to catch inviolable-element tampering.
 - **Strategic Meaning:** The asset now resists imitation structurally, not rhetorically: a copier would need to replicate a meaning system, a measurement system, a governance system, a quality system, and a decision history — not a page. Sprint 2B (build /score/ from the governed model) is unblocked and must ship through the gate.
